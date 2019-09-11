@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d465d06-c6f6-4ddc-8c7b-116aee92651c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d465d06-c6f6-4ddc-8c7b-116aee92651c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/ajax_sql/assets/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -109,33 +107,14 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="appAjax" type="b2602c69:ProjectViewProjectNode" />
-              <item name="appAjax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="appAjax" type="b2602c69:ProjectViewProjectNode" />
-              <item name="appAjax" type="462c0819:PsiDirectoryNode" />
-              <item name="ajax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="appAjax" type="b2602c69:ProjectViewProjectNode" />
-              <item name="appAjax" type="462c0819:PsiDirectoryNode" />
-              <item name="ajax_sql" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,6 +166,7 @@
       <workItem from="1566000799057" duration="26000" />
       <workItem from="1566220027110" duration="331000" />
       <workItem from="1566226045043" duration="21000" />
+      <workItem from="1568194703833" duration="175000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1">
       <created>1564219598531</created>
@@ -237,17 +217,23 @@
       <option name="project" value="LOCAL" />
       <updated>1566226055609</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit news">
+      <created>1568194749385</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568194749385</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22958000" />
+    <option name="totallyTimeSpent" value="23133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655068" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,7 +280,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ver 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ver 1" />
+    <MESSAGE value="commit news" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit news" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/json.php" />
@@ -391,7 +378,7 @@
     <entry file="file://$PROJECT_DIR$/ajax_sql/assets/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
